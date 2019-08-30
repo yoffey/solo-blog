@@ -11,7 +11,8 @@ yoffey 的个人博客
 ### 最新
 
 * [我在 GitHub 上的开源项目](https://yoffey.club/my-github-repos)
-* [世界，你好！](https://yoffey.club/hello-solo)
+* [JDK8十大特性](https://yoffey.club/articles/2018/12/22/1567131133605.html)
+* [Markdown基本语法](https://yoffey.club/articles/2018/12/20/1567131134169.html)
 
 
 
